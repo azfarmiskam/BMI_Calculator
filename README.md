@@ -2,6 +2,13 @@
 
 Adult Body Mass Index (BMI) Calculator
 
+## RUN
+python3 BMI_Calc.py
+
+- insert your WEIGHT in metric (kg)
+- insert your HEIGHT in metric (cm)
+- get your reading
+
 ## BMI Categories:
 - Underweight = <18.5
 - Normal weight = 18.5–24.9
