@@ -29,13 +29,13 @@ def print_msg_box(msg, indent=1, width=None, title=None):
 
 bmi = float(BMI(w, h))
 if bmi < 18.5:
-    print_msg_box('\n~ UNDERWEIGHT ~\n', indent=10)
+    print_msg_box(msg='\n~ UNDERWEIGHT ~\n', indent=10, title='BMI Category:')
 
 elif bmi >= 18.5 and bmi <= 24.9:
-    print_msg_box('\n~ NORMAL WEIGHT ~\n', indent=10)
+    print_msg_box(msg='\n~ NORMAL WEIGHT ~\n', indent=10, title='BMI Category:')
 
 elif bmi >= 25 and bmi <= 29.9:
-    print_msg_box('\n~ OVERWEIGHT ~\n', indent=10)
+    print_msg_box(msg='\n~ OVERWEIGHT ~\n', indent=10, title='BMI Category:')
 
 else:
-    print_msg_box('\n~ OBERSITY ~\n', indent=10)
+    print_msg_box(msg='\n~ OBERSITY ~\n', indent=10, title='BMI Category:')
