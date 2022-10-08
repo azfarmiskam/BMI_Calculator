@@ -3,10 +3,10 @@
 Adult Body Mass Index (BMI) Calculator
 
 ## BMI Categories:
-Underweight = <18.5
-Normal weight = 18.5–24.9
-Overweight = 25–29.9
-Obesity = BMI of 30 or greater
+- Underweight = <18.5
+- Normal weight = 18.5–24.9
+- Overweight = 25–29.9
+- Obesity = BMI of 30 or greater
 
 ## Take Action Towards Better Health:
 
